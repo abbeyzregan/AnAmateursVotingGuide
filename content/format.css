@@ -1,0 +1,25 @@
+
+/* general body alterations */
+body {
+  font-family : verdana ;
+}
+
+h1 {
+  font-family: Impact;
+}
+
+/* classes
+  All alterations to specific elements within a class will be written below the
+  class and labeled accordingly
+*/
+
+.websiteHeader { /* makes the website header */
+  background-color : #cd9063 ; /* makes the background of the header orange */
+  font-family : Impact ;
+  color: white ;
+  font-weight: bold;
+}
+
+.footer {
+
+}
